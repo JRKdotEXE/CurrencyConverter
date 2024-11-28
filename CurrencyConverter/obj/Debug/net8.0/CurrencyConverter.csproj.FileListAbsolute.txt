@@ -1,0 +1,14 @@
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/CurrencyConverter
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/CurrencyConverter.deps.json
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/CurrencyConverter.runtimeconfig.json
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/CurrencyConverter.dll
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/CurrencyConverter.pdb
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.AssemblyInfoInputs.cache
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.AssemblyInfo.cs
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.csproj.CoreCompileInputs.cache
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.dll
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/refint/CurrencyConverter.dll
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.pdb
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.genruntimeconfig.cache
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/ref/CurrencyConverter.dll
