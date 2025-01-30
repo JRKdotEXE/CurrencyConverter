@@ -12,3 +12,8 @@
 /Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.pdb
 /Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.genruntimeconfig.cache
 /Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/ref/CurrencyConverter.dll
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.csproj.AssemblyReference.cache
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/CurrencyConverter.sourcelink.json
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/CsvHelper.dll
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/obj/Debug/net8.0/Currency.08E530D3.Up2Date
+/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/bin/Debug/net8.0/RestSharp.dll

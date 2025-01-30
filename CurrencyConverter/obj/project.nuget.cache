@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "//dbfuGrDYo=",
+  "dgSpecHash": "Sm4pThl/+i8=",
   "success": true,
   "projectFilePath": "/Users/jiri/Library/Škola/C#/CurrencyConverter/CurrencyConverter/CurrencyConverter.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jiri/.nuget/packages/csvhelper/33.0.1/csvhelper.33.0.1.nupkg.sha512",
+    "/Users/jiri/.nuget/packages/restsharp/112.1.0/restsharp.112.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
